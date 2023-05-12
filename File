@@ -1,6 +1,6 @@
-Class{
-int a=89;
-public static void main(Strings[]args){
-System.out.println(a);
+class{
+string="Enter your user name";
+public static void main(string[]args){
+system.out.println(string);
 }
 }
