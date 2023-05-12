@@ -1,0 +1,6 @@
+Class{
+int a=89;
+public static void main(Strings[]args){
+System.out.println(a);
+}
+}
